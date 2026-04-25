@@ -8,18 +8,18 @@ public class Pessoas {
 	
 	
 	public void andar() {
-		System.out.println(getNome() + " andando...");
+		System.out.println("Pessoa: " + getNome() + " " + getSobrenome() + " andando...");
 	}
 	
 	public void parar() {
-		System.out.println("Pessoa parada...");
+		System.out.println("Pessoa: " + getNome() + " " + getSobrenome() + " parada...");
 	}
 	
 	public void correr() {
-		System.out.println("Pessoa correndo...");
+		System.out.println("Pessoa: " + getNome() + " " + getSobrenome() + " correndo...");
 	}
 	public void falar() {
-		System.out.println("Pessoa falando...");
+		System.out.println("Pessoa: " + getNome() + " " + getSobrenome() + " falando...");
 	}
 	
 	

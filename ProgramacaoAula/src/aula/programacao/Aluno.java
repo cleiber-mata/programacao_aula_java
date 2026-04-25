@@ -10,7 +10,7 @@ public class Aluno extends Pessoas {
 		this.matricula = matricula;
 	}	
 	public void estudar(String materia) {
-		System.out.println(getNome() + " " + getSobrenome() + " estudando " + materia);
+		System.out.println("Aluno " + getNome() + " " + getSobrenome() + ", estudando " + materia + ", Matricula: " + getMatricula());
 	}
 
 }

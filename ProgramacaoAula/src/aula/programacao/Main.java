@@ -21,8 +21,18 @@ public class Main {
 		luiz.correr();
 		luiz.falar();
 		luiz.setMatricula("44433321");
-		luiz.estudar("Java OO...");
-				
+		luiz.estudar("Java OO");
+		
+		Professor pedro = new Professor(); 
+		pedro.setNome("Pedro"); 
+		pedro.setSobrenome("Silva"); 
+		pedro.setCpf("11122233311"); 
+		pedro.andar(); 
+		pedro.parar(); 
+		pedro.correr(); 
+		pedro.falar(); 
+		pedro.setRegistro("55533321"); 
+		pedro.lecionar("Programação OO");
 
 		}
 
