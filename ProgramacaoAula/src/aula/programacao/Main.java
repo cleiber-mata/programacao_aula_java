@@ -14,7 +14,7 @@ public class Main {
 		
 		Aluno luiz = new Aluno();
 		luiz.setNome("Luiz");
-		luiz.setSobrenome("Mata");
+		luiz.setSobrenome("Silva");
 		luiz.setCpf("11223344551");
 		luiz.andar();
 		luiz.parar();
