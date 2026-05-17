@@ -32,7 +32,7 @@ public class Main {
 		pedro.correr(); 
 		pedro.falar(); 
 		pedro.setRegistro("55533321"); 
-		pedro.lecionar("Programação OO");
+		pedro.lecionar("Programação Orientada a Objeto");
 
 		}
 

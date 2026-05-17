@@ -11,8 +11,9 @@ public class Pessoas {
 		System.out.println("Pessoa: " + getNome() + " " + getSobrenome() + " andando...");
 	}
 	
+	
 	public void parar() {
-		System.out.println("Pessoa: " + getNome() + " " + getSobrenome() + " parada...");
+		System.out.println("Pessoa: " + getNome() + " " + getSobrenome() + " parada..");
 	}
 	
 	public void correr() {
