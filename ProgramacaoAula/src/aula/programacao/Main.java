@@ -25,7 +25,7 @@ public class Main {
 		
 		Professor pedro = new Professor(); 
 		pedro.setNome("Pedro"); 
-		pedro.setSobrenome("Silva"); 
+		pedro.setSobrenome("Paulo"); 
 		pedro.setCpf("11122233311"); 
 		pedro.andar(); 
 		pedro.parar(); 
